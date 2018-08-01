@@ -1,0 +1,5 @@
+module ActivityPub
+
+# package code goes here
+
+end # module
